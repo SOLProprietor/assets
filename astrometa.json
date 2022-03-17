@@ -4,7 +4,7 @@
   "description": "1000 Greedy Goose Gang Geese Ganging up & Gathering Golden EGGZ",
   "seller_fee_basis_points": 2000,
   "image": "https://raw.githubusercontent.com/SOLProprietor/assets/main/Astro.png",
-  "animation_url": "https://github.com/SOLProprietor/assets/blob/main/AstroGoose_Legendary.mp4?raw=true?ext=mp4"
+  "animation_url": "https://drive.google.com/file/d/1BL2Jtx-lYCXuM2HSz3LOPFHFZhaxQVnk/view?ext=mp4"
   "external_url": "https://www.thedapperducks.com",
   "edition": 873,
   "attributes": [
@@ -40,7 +40,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://github.com/SOLProprietor/assets/blob/main/AstroGoose_Legendary.mp4?raw=true?ext=mp4",
+        "uri": "https://drive.google.com/file/d/1BL2Jtx-lYCXuM2HSz3LOPFHFZhaxQVnk/view?ext=mp4",
         "type": "video/mp4"
       }
     ],
