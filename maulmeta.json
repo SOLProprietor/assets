@@ -1,0 +1,59 @@
+{
+  "name": "Goose Maul",
+  "symbol": "GG0",
+  "description": "1000 Greedy Goose Gang Geese Ganging up & Gathering Golden EGGZ",
+  "seller_fee_basis_points": 2000,
+  "image": "https://www.arweave.net/dZIvWwNtFGnvit7kKmfB-0RqTlUwQ6i4T0kAB7JVzWQ?ext=png",
+  "external_url": "https://www.thedapperducks.com",
+  "edition": 899,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Maul"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Maul"
+    },
+    {
+      "trait_type": "NECK",
+      "value": "Maul"
+    },
+    {
+      "trait_type": "EAR",
+      "value": "Maul"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "Maul"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "Maul"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Maul"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.arweave.net/dZIvWwNtFGnvit7kKmfB-0RqTlUwQ6i4T0kAB7JVzWQ?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "GGTLWDJQof4eFPugqSXjPCwkSQquLzcHbyJufuDHkwzm",
+        "share": 75
+      },
+      {
+        "address": "J2PdGetLA1xR9TqZwt4vUvcgwA1By1c2S2HNThCyZjVh",
+        "share": 25
+      }
+    ]
+  },
+  "mint": "FYZD14jwMDHpBhd4Ag5y3Gi7AQSnCkSvnSLYwzTqHoa9"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Astro Goose",
+  "symbol": "GG0",
+  "description": "1000 Greedy Goose Gang Geese Ganging up & Gathering Golden EGGZ",
+  "seller_fee_basis_points": 2000,
+  "image": "https://raw.githubusercontent.com/SOLProprietor/assets/main/Astro.png",
+  "external_url": "https://www.thedapperducks.com",
+  "edition": 873,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Astro"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Astro"
+    },
+    {
+      "trait_type": "NECK",
+      "value": "Astro"
+    },
+    {
+      "trait_type": "EAR",
+      "value": "Astro"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "Astro"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "Astro"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Astro"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/SOLProprietor/assets/main/Astro.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "GGTLWDJQof4eFPugqSXjPCwkSQquLzcHbyJufuDHkwzm",
+        "share": 75
+      },
+      {
+        "address": "J2PdGetLA1xR9TqZwt4vUvcgwA1By1c2S2HNThCyZjVh",
+        "share": 25
+      }
+    ]
+  },
+  "mint": "Em5bZyHmRRMzmoyFQx29cziGnpzeVYg6yzhqA6iFaA5J"
+}
