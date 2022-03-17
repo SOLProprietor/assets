@@ -3,7 +3,7 @@
   "symbol": "GG0",
   "description": "1000 Greedy Goose Gang Geese Ganging up & Gathering Golden EGGZ",
   "seller_fee_basis_points": 2000,
-  "image": "https://www.arweave.net/gL9io4b7ijvJTwmLVO0pUtPmD0H_8B_ivx7AaQG9zlU?ext=png",
+  "image": "https://raw.githubusercontent.com/SOLProprietor/assets/main/Golden.png",
   "external_url": "https://www.thedapperducks.com",
   "edition": 252,
   "attributes": [
@@ -39,7 +39,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://www.arweave.net/gL9io4b7ijvJTwmLVO0pUtPmD0H_8B_ivx7AaQG9zlU?ext=png",
+        "uri": "https://raw.githubusercontent.com/SOLProprietor/assets/main/Golden.png",
         "type": "image/png"
       }
     ],
