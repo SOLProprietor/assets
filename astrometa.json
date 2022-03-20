@@ -4,6 +4,7 @@
   "description": "1000 Greedy Goose Gang Geese Ganging up & Gathering Golden EGGZ",
   "seller_fee_basis_points": 2000,
   "image": "https://dc704.4shared.com/img/X32emIkRiq/s23/17fa8dd1ed0/AstroGoose-Legendary?ext=gif",
+  "animation_url": "https://dc770.4shared.com/img/QVZ6y-hUiq/8106b87f/dlink__2Fdownload_2FQVZ6y-hUiq_3Fsbsr_3D5f777f070b1204560ba04373d8389ab9aa4_26bip_3DNzAuMTc1LjE0OC4yNDk_26lgfp_3D20_26dsid_3DGvvDBj8a.c5459cb301c8c0068dfdebfe1a1cf589_26bip_3DNzAuMTc1LjE0OC4yNDk_26bip_3DNzAuMTc1LjE0OC4yNDk/preview.mp4?cuid=1488146902&cupa=cc0f864a89d8ae27dcf129ee8bc11084?ext=mp4"
   "external_url": "https://www.thedapperducks.com",
   "edition": 873,
   "attributes": [
@@ -41,9 +42,13 @@
       {
         "uri": "https://dc704.4shared.com/img/X32emIkRiq/s23/17fa8dd1ed0/AstroGoose-Legendary?ext=gif",
         "type": "image/gif"
+      },
+      {
+        "uri": "https://dc770.4shared.com/img/QVZ6y-hUiq/8106b87f/dlink__2Fdownload_2FQVZ6y-hUiq_3Fsbsr_3D5f777f070b1204560ba04373d8389ab9aa4_26bip_3DNzAuMTc1LjE0OC4yNDk_26lgfp_3D20_26dsid_3DGvvDBj8a.c5459cb301c8c0068dfdebfe1a1cf589_26bip_3DNzAuMTc1LjE0OC4yNDk_26bip_3DNzAuMTc1LjE0OC4yNDk/preview.mp4?cuid=1488146902&cupa=cc0f864a89d8ae27dcf129ee8bc11084?ext=mp4,
+        "type": "video/mp4"
       }
     ],
-    "category": "image",
+    "category": "video",
     "creators": [
       {
         "address": "GGTLWDJQof4eFPugqSXjPCwkSQquLzcHbyJufuDHkwzm",
