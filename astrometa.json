@@ -37,7 +37,9 @@
       "value": "Astro"
     }
   ],
+
   "properties": {
+    "category": "video",
     "files": [
       {
         "uri": "https://dc704.4shared.com/img/X32emIkRiq/s23/17fa8dd1ed0/AstroGoose-Legendary?ext=gif",
@@ -48,7 +50,7 @@
         "type": "video/mp4"
       }
     ],
-    "category": "video",
+    
     "creators": [
       {
         "address": "GGTLWDJQof4eFPugqSXjPCwkSQquLzcHbyJufuDHkwzm",
