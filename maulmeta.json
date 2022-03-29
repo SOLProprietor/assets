@@ -3,7 +3,8 @@
   "symbol": "GG0",
   "description": "1000 Greedy Goose Gang Geese Ganging up & Gathering Golden EGGZ",
   "seller_fee_basis_points": 2000,
-  "image": "https://raw.githubusercontent.com/SOLProprietor/assets/main/Maul.png",
+  "image": "https://nm2a3eessib3ziyqataejymf64dm75fflhu5zo4fubvvrk7tckvq.arweave.net/azQNkJKSA7yjEATAROGF9wbP9KVZ6dy7haBrWKvzEqs?ext=gif",
+  "animation_url": "https://nm2a3eessib3ziyqataejymf64dm75fflhu5zo4fubvvrk7tckvq.arweave.net/azQNkJKSA7yjEATAROGF9wbP9KVZ6dy7haBrWKvzEqs?ext=gif",
   "external_url": "https://www.thedapperducks.com",
   "edition": 899,
   "attributes": [
@@ -39,11 +40,11 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/SOLProprietor/assets/main/Maul.png",
-        "type": "image/png"
+        "uri": "https://nm2a3eessib3ziyqataejymf64dm75fflhu5zo4fubvvrk7tckvq.arweave.net/azQNkJKSA7yjEATAROGF9wbP9KVZ6dy7haBrWKvzEqs?ext=gif",
+        "type": "image/gif"
       }
     ],
-    "category": "image",
+    "category": "video",
     "creators": [
       {
         "address": "GGTLWDJQof4eFPugqSXjPCwkSQquLzcHbyJufuDHkwzm",
